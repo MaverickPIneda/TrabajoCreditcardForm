@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Credit card form</string>
+    <string name="InforCard">Informacion de la tarjeta de credito</string>
+    <string name="direccion">Direccion</string>
+</resources>
