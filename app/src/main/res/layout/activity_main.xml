@@ -121,5 +121,25 @@
                     android:hint="Codigo postal"
                     android:inputType="number"/>
             </LinearLayout>
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="12dp">
+            <Button
+                android:id="@+id/botonR"
+                android:layout_width="135dp"
+                android:layout_height="wrap_content"
+                android:text="REGISTRAR"
+                android:textColor="#FFFFFF"
+                android:background="#303F9F"/>
+            <Button
+                android:id="@+id/botonB"
+                android:layout_width="135dp"
+                android:layout_height="wrap_content"
+                android:text="BUSCAR"
+                android:layout_marginLeft="70dp"
+                android:background="#FF5722"
+                android:textColor="#FFFFFF"/>
+        </LinearLayout>
     </LinearLayout>
 </ScrollView>
